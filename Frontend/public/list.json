@@ -1,100 +1,258 @@
 [
     {
-        "id":1,
-        "name":"Name 1",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 1,
+        "name": "John Doe",
+        "mobile_number": "+1234567890",
+        "entries": [
+            {
+                "description": "Groceries",
+                "category": "Food",
+                "price": 300,
+                "date": "2024-07-13"
+            },
+            {
+                "description": "Utility Bills",
+                "category": "Utilities",
+                "price": 250,
+                "date": "2024-07-12"
+            },
+            {
+                "description": "Travel expenses",
+                "category": "Travel",
+                "price": 300,
+                "date": "2024-07-28"
+            },
+            {
+                "description": "Gift purchase",
+                "category": "Gifts",
+                "price": 200,
+                "date": "2024-07-28"
+            },
+            {
+                "description": "Event planning",
+                "category": "Events",
+                "price": 100,
+                "date": "2024-07-28"
+            }
+        ],
+        "total_amount": 1150
     },
     {
-        "id":2,
-        "name":"Name 2",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 2,
+        "name": "Jane Smith",
+        "mobile_number": "+1987654321",
+        "entries": [
+            {
+                "description": "Medical expenses",
+                "category": "Medical",
+                "price": 500,
+                "date": "2024-07-10"
+            },
+            {
+                "description": "Home repairs",
+                "category": "Home",
+                "price": 250,
+                "date": "2024-07-15"
+            }
+        ],
+        "total_amount": 750
     },
     {
-        "id":3,
-        "name":"Name 3",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 3,
+        "name": "Alice Johnson",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Education fees",
+                "category": "Education",
+                "price": 500,
+                "date": "2024-07-05"
+            }
+        ],
+        "total_amount": 500
     },
     {
-        "id":4,
-        "name":"Name 4",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 4,
+        "name": "Bob Williams",
+        "mobile_number": "+9988776655",
+        "entries": [
+            {
+                "description": "Household goods",
+                "category": "Household",
+                "price": 300,
+                "date": "2024-07-20"
+            }
+        ],
+        "total_amount": 300
     },
     {
-        "id":5,
-        "name":"Name 5",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 5,
+        "name": "Ella Davis",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Gifts",
+                "category": "Gifts",
+                "price": 200,
+                "date": "2024-07-15"
+            }
+        ],
+        "total_amount": 200
     },
     {
-        "id":6,
-        "name":"Name 6",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 6,
+        "name": "Michael Brown",
+        "mobile_number": "+7788990011",
+        "entries": [
+            {
+                "description": "Personal loans",
+                "category": "Loans",
+                "price": 300,
+                "date": "2024-07-10"
+            },
+            {
+                "description": "Personal loans",
+                "category": "Loans",
+                "price": 300,
+                "date": "2024-07-25"
+            }
+        ],
+        "total_amount": 600
     },
     {
-        "id":7,
-        "name":"Name 7",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 7,
+        "name": "Sophia Miller",
+        "mobile_number": "+6677889900",
+        "entries": [
+            {
+                "description": "Travel expenses",
+                "category": "Travel",
+                "price": 400,
+                "date": "2024-07-18"
+            }
+        ],
+        "total_amount": 400
     },
     {
-        "id":1,
-        "name":"Name 1",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 8,
+        "name": "Liam Wilson",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Medical expenses",
+                "category": "Medical",
+                "price": 300,
+                "date": "2024-07-05"
+            },
+            {
+                "description": "Medical expenses",
+                "category": "Medical",
+                "price": 150,
+                "date": "2024-07-12"
+            }
+        ],
+        "total_amount": 450
     },
     {
-        "id":2,
-        "name":"Name 2",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 9,
+        "name": "Olivia Moore",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Home repairs",
+                "category": "Home",
+                "price": 300,
+                "date": "2024-07-20"
+            }
+        ],
+        "total_amount": 300
     },
     {
-        "id":3,
-        "name":"Name 3",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 10,
+        "name": "Lucas Lee",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Education fees",
+                "category": "Education",
+                "price": 500,
+                "date": "2024-07-15"
+            }
+        ],
+        "total_amount": 500
     },
     {
-        "id":4,
-        "name":"Name 4",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 11,
+        "name": "Ava Taylor",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Groceries",
+                "category": "Food",
+                "price": 200,
+                "date": "2024-07-10"
+            },
+            {
+                "description": "Groceries",
+                "category": "Food",
+                "price": 150,
+                "date": "2024-07-25"
+            }
+        ],
+        "total_amount": 350
     },
     {
-        "id":5,
-        "name":"Name 5",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 12,
+        "name": "James Clark",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Gifts",
+                "category": "Gifts",
+                "price": 200,
+                "date": "2024-07-18"
+            },
+            {
+                "description": "Party expenses",
+                "category": "Events",
+                "price": 200,
+                "date": "2024-07-18"
+            }
+        ],
+        "total_amount": 400
     },
     {
-        "id":6,
-        "name":"Name 6",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 13,
+        "name": "Emily Thomas",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Household goods",
+                "category": "Household",
+                "price": 250,
+                "date": "2024-07-05"
+            }
+        ],
+        "total_amount": 250
     },
     {
-        "id":7,
-        "name":"Name 7",
-        "title":"lorem ipsum",
-        "price":0,
-        "object":"Free"
+        "id": 14,
+        "name": "Noah Hill",
+        "mobile_number": "+1122334455",
+        "entries": [
+            {
+                "description": "Personal loans",
+                "category": "Loans",
+                "price": 400,
+                "date": "2024-07-12"
+            },
+            {
+                "description": "Personal loans",
+                "category": "Loans",
+                "price": 400,
+                "date": "2024-07-28"
+            }
+        ],
+        "total_amount": 800
     }
 ]
